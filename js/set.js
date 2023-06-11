@@ -130,8 +130,8 @@ var quick_list_preinstall = {
         url: "https://www.aliyundrive.com/drive/",
     },
     '9': {
-        title: "Office",
-        url: "https://www.office.com/",
+        title: "Notion",
+        url: "https://www.notion.so/",
     },
     '10': {
         title: "又拍云",
@@ -144,13 +144,7 @@ var quick_list_preinstall = {
     '12': {
         title: "哔哩哔哩",
         url: "https://www.bilibili.com/",
-    } 
-    '13': {
-        title: "Notion",
-        url: "https://www.notion.so/",
     }
-
-    
 };
 
 // 获取搜索引擎列表
