@@ -144,7 +144,13 @@ var quick_list_preinstall = {
     '12': {
         title: "哔哩哔哩",
         url: "https://www.bilibili.com/",
+    } 
+    '13': {
+        title: "Notion",
+        url: "https://www.notion.so/",
     }
+
+    
 };
 
 // 获取搜索引擎列表
